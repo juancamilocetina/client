@@ -27,7 +27,7 @@ const routes = [
                 exact: true
             },
             {
-                component: Error404,
+                component: Error404
             }
         ]
     },
@@ -47,7 +47,7 @@ const routes = [
                 exact: true
             },
             {
-                component: Error404,
+                component: Error404
             }
         ]
     }
